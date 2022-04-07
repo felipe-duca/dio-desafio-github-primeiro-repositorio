@@ -3,5 +3,5 @@ Repositório criado para o Desafio de Projeto.
 
 > Links Úteis
 
-Página Oficial do [Markdown](https://www.markdownguide.org/)
-Download [Git](https://git-scm.com/download/win) no Windows
+Página Oficial do [Markdown](https://www.markdownguide.org/).
+Download [Git](https://git-scm.com/download/win) no Windows.
